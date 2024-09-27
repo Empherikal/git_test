@@ -1,2 +1,2 @@
 # git_test
-hellp odin this is your friend 
+hello odin this is your friend 
