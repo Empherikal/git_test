@@ -1,0 +1,53 @@
+body {
+   
+}
+
+.container-header {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    background-color: dodgerblue;
+    justify-content: center;
+    align-items: center;
+    content: border-box;
+}
+
+.nav-bar {
+    display: flex;
+    margin: 0px;
+    padding: 70px;
+    background-color: dodgerblue;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    gap: 5rem;
+}
+
+.the-container-body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px;
+
+    align-items: center;
+
+    width: fit-content;
+    height: max-content;
+    margin: ;
+    background-color: rgb(105, 95, 95);
+
+}
+
+.body {
+    /* color: rgb(35, 121, 35); */
+    flex-basis: 1;
+     background: hsl(210deg 15% 20%);
+}
+
+
+.the-body {
+    /* color: mediumslateblue; */
+    border: 2px solid magenta;
+    align-self: center;
+    flex-wrap: wrap;
+}
